@@ -1,0 +1,15 @@
+[submodule "meta-utils-layer"]
+	path = meta-utils-layer
+	url = https://github.com/TheRedRover/meta-utils-layer.git
+[submodule "meta-custom-utils"]
+	path = meta-custom-utils
+	url = https://github.com/TheRedRover/meta-utils-layer.git
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = https://git.yoctoproject.org/git/meta-raspberrypi
+[submodule "poky"]
+	path = poky
+	url = https://git.yoctoproject.org/git/poky
